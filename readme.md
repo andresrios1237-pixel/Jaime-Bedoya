@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, Hola mi nombre es Jaime Bedoya <sub style="font-size: 15px; font-style: italic">, a programming enthusiast.</sub><br> [![LinkedIn](https://img.shields.io/badge/Jeferson%20Ferreira-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffdevx) [![Instagram](https://img.shields.io/badge/Jeferson%20Ferreira-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeffdevx) [![Twitter Badge](https://img.shields.io/badge/Jeferson%20Ferreira-1D9BF0?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/jeffdevx) [![Telegram Badge](https://img.shields.io/badge/Jeferson%20Ferreira-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/jeffdevx)</b>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola mi nombre es Jaime Bedoya <sub style="font-size: 15px; font-style: italic">,y esto es mi primer Proyecto en github.</sub><br> [![LinkedIn][![Instagram][![Twitter Badge][![Telegram Badge]</b>
 
 ⚡este es mi primer github creado espero mejorar.<br>
 
