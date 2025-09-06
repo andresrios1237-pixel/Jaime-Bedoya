@@ -1,6 +1,8 @@
 
 
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola mi nombre es Jaime Bedoya <sub style="font-size: 15px; font-style: italic">, Soy estudiante de la UTEDE Desarrollo de software.</sub><br> [![Instagram](https://www.instagram.com/andresrios1237/?next=%2F)](https://instagram.com/jeffdevx)</b>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola mi nombre es Jaime Bedoya <sub style="font-size: 15px; font-style: italic">, Soy estudiante de la UTEDE Desarrollo de software.</sub>
+
+<br>  [![Instagram](https://img.shields.io/badge/Jeferson%20Ferreira-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/andresrios1237/) </b>
 
 
 
