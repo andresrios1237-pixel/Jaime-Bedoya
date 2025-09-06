@@ -1,10 +1,17 @@
 
+<p style="font-family:'Times New Roman', Times, serif; font-size:20px;">
+  Mi nombre es: Jaime Bedoya <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/12587587-5d18-42c9-aa34-251f0288a2cf" />
 
-<b>Hola mi nombre es Jaime Bedoya <sub style="font-family: 'Times New Roman', Times, serif;">, y esto es mi primer Proyecto en github.</sub>
+</p>
 
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola mi nombre es Jaime Bedoya <sub style="font-size: 15px; font-style: italic">, Soy estudiante de la UTEDE Desarrollo de software.</sub>
 
-<br>  [![Instagram](https://img.shields.io/badge/Jaime%20Bedoya-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/andresrios1237/) </b>
+
+
+
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b> style="font-family: 'Times New Roman', Times, serif;">
+
+
+<b>[![Instagram](https://img.shields.io/badge/Jaime%20Bedoya-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/andresrios1237/) </b>
 
 
 
