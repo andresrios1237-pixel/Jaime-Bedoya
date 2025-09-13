@@ -7,9 +7,11 @@
 
 <div align=center>
 
-<b>"Estoy iniciando en el mundo de la programacion asi que tomale captura de pantalla porque me volvere el mejor"<\b>
+<b>"Estoy iniciando en el mundo de la programacion asi que tomale captura de pantalla porque me volvere el mejor"</b>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fnew-trending-gif-on-giphy-august-15-2017-at-0333pm--814236807601664284%2F&psig=AOvVaw2iF7KFPngAbGDgEAjtWLNT&ust=1757250623840000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjsgvCaxI8DFQAAAAAdAAAAABAE" alt="Identificacion">
+<div align=center>
+  
+<img src="https://img.pikbest.com/png-images/20190918/cartoon-snail-loading-loading-gif-animation_2734139.png!bw700" alt="Estoy en proceso">
 
   
 
