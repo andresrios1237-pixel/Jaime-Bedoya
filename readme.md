@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif" width ="100">
+<img src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif" width ="100"><img src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif" width ="100">
 
 <b>[![Instagram](https://img.shields.io/badge/Jaime%20Bedoya-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/andresrios1237/) </b>
 
