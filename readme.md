@@ -1,4 +1,12 @@
-
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mi Presentación</title>
+  <link rel="stylesheet" href="styles.css">
+  <!-- Reveal.js CDN -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4/dist/theme/white.css" id="theme">
+</head>
+<body>
 <p style="font-family:'Times New Roman', Times, serif; font-size:20px;">
   Mi nombre es: Jaime Bedoya <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/12587587-5d18-42c9-aa34-251f0288a2cf" />
 
